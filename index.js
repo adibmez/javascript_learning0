@@ -35,3 +35,6 @@
 // let myString = JSON.stringify(person);
 
 // document.getElementById("demo1").innerHTML = myString;
+
+
+// --- I am continue learning... ---
